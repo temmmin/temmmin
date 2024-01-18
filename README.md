@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temmmin&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/temmmin/github-readme-stats)
 <!--
 **temmmin/temmmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
