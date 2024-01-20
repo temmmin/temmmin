@@ -5,8 +5,8 @@
 <div align="center">
 <h3 align="center"> Main
 <div align="center">
- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
- 
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Adobe&logoColor=white"></a>&nbsp 
 <h3 align="center"> Sub
 <div align="center">
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Adobe&logoColor=white">
