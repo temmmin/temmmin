@@ -3,11 +3,15 @@
 
 <h3 align="center">⚡Tech Stack⚡
 <div align="center">
-<h3 align="center">⚡Main⚡
+<h3 align="center"> Main
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+ 
+<h3 align="center"> Sub
+<div align="center">
+ <img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
-
+ 
 <!--
 **temmmin/temmmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
